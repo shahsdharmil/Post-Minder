@@ -30,13 +30,13 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/RishilShah12/PostMinder.git
+   git clone https://github.com/shahsdharmil/Post-Minder.git
    ```
 
 2. Navigate to the project directory:
 
    ```sh
-   cd PostMinder
+   cd Post-Minder
    ```
 
 3. Start the application using Docker Compose:
@@ -68,7 +68,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## Contact
 
-For any inquiries or feedback, please email us at rishilshah12@gmail.com.
+For any inquiries or feedback, please email us at shahsdharmil@gmail.com.
 
 ---
 
