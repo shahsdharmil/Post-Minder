@@ -21,7 +21,7 @@ PostMinder is a web application that streamlines the scheduling of Instagram pos
 
 ## Pre-requisite
 
-- [Docker](https://www.docker.com/) Installed and Docker Engine running on your local machine
+- [Docker](https://www.docker.com/) Ensure Docker is installed, and the Docker Engine is up and running on your local machine.
 
 ## Getting Started
 
