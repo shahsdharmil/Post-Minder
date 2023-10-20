@@ -4,11 +4,11 @@ PostMinder is a web application that streamlines the scheduling of Instagram pos
 
 ## Features
 
-- Schedule Instagram posts for future dates.
-- Manage and edit scheduled posts.
-- User-friendly interface built with Vue.js.
-- Efficient job processing using BullMQ and Redis.
-- Data storage and retrieval using PostgreSQL.
+1. Plan and arrange Instagram posts for upcoming dates.
+2. Easily oversee and modify previously scheduled posts.
+3. Enjoy an intuitive interface developed with Vue.js.
+4. Optimize task handling through the use of BullMQ and Redis.
+5. Store and access data efficiently using PostgreSQL.
 
 ## Technologies Used
 
