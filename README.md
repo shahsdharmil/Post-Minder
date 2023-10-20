@@ -12,12 +12,12 @@ PostMinder is a web application that streamlines the scheduling of Instagram pos
 
 ## Technologies Used
 
-- [Vite](https://vitejs.dev/) - Build tool and development server.
-- [Vue.js](https://vuejs.org/) - Progressive JavaScript framework.
-- [PostgreSQL](https://www.postgresql.org/) - Open-source relational database system.
-- [Express.js](https://expressjs.com/) - Web application framework for Node.js.
-- [BullMQ](https://docs.bullmq.io/) - Advanced Node.js job and message queue.
-- [Redis](https://redis.io/) - In-memory data structure store.
+- [Vite](https://vitejs.dev/) - A versatile build tool and development server.
+- [Vue.js](https://vuejs.org/) - A forward-looking JavaScript framework.
+- [PostgreSQL](https://www.postgresql.org/) -  A relational database system with an open-source nature.
+- [Express.js](https://expressjs.com/) - A Node.js web application framework.
+- [BullMQ](https://docs.bullmq.io/) - A sophisticated Node.js job and message queue system.
+- [Redis](https://redis.io/) - A data structure store that operates in-memory.
 
 ## Pre-requisite
 
