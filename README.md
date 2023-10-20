@@ -58,7 +58,7 @@ To run the project locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+We wholeheartedly welcome contributions to the project! If you are interested in contributing to this endeavor, we kindly request that you adhere to the following steps and guidelines:
 
 1. Fork the repository.
 2. Create a new branch for your feature/fix.
